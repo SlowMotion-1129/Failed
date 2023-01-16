@@ -36,7 +36,7 @@ env:
   SOURCE_URL: https://github.com/openwrt/openwrt.git
   SOURCE_BRANCH: master
   CLONE_DEPTH: 200
-  CONFIG_FILE: configs/for_master/Raspberry.config
+  CONFIG_FILE: configs/for_master/21.config
   DIY_SH: diy.sh
   FIX_SH: fix.sh
   FEEDS_SH: feeds.sh
