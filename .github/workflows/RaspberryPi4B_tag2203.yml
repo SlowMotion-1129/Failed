@@ -38,7 +38,7 @@ env:
   SOURCE_URL: https://github.com/openwrt/openwrt.git
   SOURCE_TAG: v22.03.3
   CLONE_DEPTH: 200
-  CONFIG_FILE: configs/for_tag2203/RaspberryPi4B.config
+  CONFIG_FILE: configs/for_tag2203/orangePI.config
   DIY_SH: diy.sh
   FIX_SH: fix.sh
   FEEDS_SH: feeds.sh
