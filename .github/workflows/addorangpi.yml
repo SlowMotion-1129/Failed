@@ -23,7 +23,7 @@
 ##**********************************************************************/
 
 
-name: Build openwrt branch master for orangepi
+name: Build openwrt add orangepi
 
 on:
   workflow_dispatch:
